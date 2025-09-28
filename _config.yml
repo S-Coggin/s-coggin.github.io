@@ -10,9 +10,9 @@
 #
 
 title: Sara's Portfolio
-email: hi@creativelysc.com
+email: scoggin.dev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Sara! I am a creative who loves developing, and the ol' craft of word-smithing.
+  Hi, I'm Sara! I'm a Software Engineer who codes by day and writes fiction by night. Somewhere between, I daydream into the sky and kick things in Taekwondo.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: creativelysc
@@ -23,7 +23,7 @@ permalink:  /work/:title/
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
